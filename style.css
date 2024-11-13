@@ -1,0 +1,48 @@
+
+@font-face {
+  font-family: "AvenirLTStd35Light";
+  src: url("*C:\Users\User\Desktop\fonts\AvenirLTStd35Light.otf")
+      format("otf"),
+    url("*C:\Users\User\Desktop\fonts\AvenirLTStd35Light.otf") format("otf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+
+.avineir_light{
+    font-family: "AvenirLTStd35Light", sans-serif;
+
+}
+
+
+@font-face {
+    font-family: "AvenirLTStd-Roman";
+    src: url("*C:\Users\User\Desktop\fonts\AvenirLTStd-Roman.otf")
+        format("otf"),
+      url("*C:\Users\User\Desktop\fonts\AvenirLTStd-Roman.otf") format("otf");
+    font-weight: normal;
+    font-style: normal;
+  }
+
+
+  .avineir_roman {
+    font-family: "AvenirLTStd-Roman", sans-serif;
+  }
+
+
+
+@font-face {
+    font-family: "AvenirLTStd-Heavy";
+    src: url("*C:\Users\User\Desktop\fonts\AvenirLTStd-Heavy.otf")
+        format("otf"),
+      url("*C:\Users\User\Desktop\fonts\AvenirLTStd-Heavy.otf") format("otf");
+    font-weight: normal;
+    font-style: normal;
+  }
+
+.heavy{
+    font-family: "AvenirLTStd-Heavy", sans-serif;
+
+
+}
